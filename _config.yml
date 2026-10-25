@@ -1,0 +1,29 @@
+remote_theme: coursweb/jk-theme
+title: CP-DEV 4 – ID431
+description: Cours développement d'interfaces 4.
+lang: fr-FR
+# markdown: GFM
+robots: noindex, nofollow
+# menu 
+chapters:
+ - title: Cours Dev 4
+   url: https://eracom-id431.github.io/cp-dev4/
+ - title: Référence CSS
+   url: https://cours-web.ch/css/
+# - title: Infos IMD
+#   url: https://eracom.ch/informations-eleves-id/
+# - title: Plan de formation
+#   url: https://code.eracom-pedagogique.ch/formation-imd-2020/   
+# - title: Fontes IMD
+#   url: https://code.eracom-pedagogique.ch/fontes-imd/  
+# - title: 🏀 Teams
+#   url: https://teams.microsoft.com/l/team/19%3a5J-kUQLWobtr3jWyD3ZyOIe2QJLUREDwBk6s3aiw79k1%40thread.tacv2/conversations?groupId=c6d65cb0-98f3-4828-9f13-3cf6f5fa0cf5&tenantId=906ab908-04f9-4a80-ba9c-875a36e77bc1
+# - title: 🧠 Podsie
+#   url: https://student.podsie.org/
+# pied de page   
+footer_col_1: <ul class="contact-list">
+  <li>Eracom, Lausanne</li>
+  <li>2026</li></ul>
+footer_col_2: <ul class="social-media-list">
+  <li><a href="https://github.com/eracom-id431/cp-dev4">Lien Github</a></li>
+  <li><a href="https://teams.microsoft.com/l/">Teams</a></li></ul>
