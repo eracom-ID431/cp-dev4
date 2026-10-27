@@ -32,3 +32,7 @@ Ancien site : [http://fondation-beatrice.ch/](http://fondation-beatrice.ch/)
 #### Festival Terranova
 
 [Maquette Figma](https://www.figma.com/design/fyinP68gxVvsbwoZuweKKA/Terranova?node-id=533-38&t=8LH2jU8EiKD0bnyx-1) (LAB12)
+
+#### Exemples de portfolios
+
+[Slides figma](https://www.figma.com/slides/aOMSRuMo2nwqlfY5gz0c30) avec divers exemples de portfolios
