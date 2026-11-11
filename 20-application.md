@@ -17,7 +17,7 @@ Réalisation de projets avec WordPress:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/Chs2CaT6K4brjo6g9PUtTu/CMS-to-build?node-id=1-42&embed-host=share" allowfullscreen></iframe>
 
-Voir les projets attribués: [document Teams](https://fontes.eracom.ch/)
+Voir les projets attribués: [document Teams](https://eduvaud.sharepoint.com/:x:/r/sites/ERACOM_2526_ID431_Teams/Documents%20partages/Dev%20interface%204%20-%20CMS/Attribution%20Projets.xlsx?d=we44fa7547a454e1eac597624e8f7313a&csf=1&web=1&e=yVydYG)
 
 ### Choix de portfolios
 
@@ -35,9 +35,8 @@ Reste à attribuer:
 
 Ancien site : [http://fondation-beatrice.ch/](http://fondation-beatrice.ch/)
 
-#### Festival Terranova
+Trois projets de site, créés dans le module digital du LAB, seront présentés à la cliente le mercredi 2 décembre.
 
-[Maquette Figma](https://www.figma.com/design/fyinP68gxVvsbwoZuweKKA/Terranova?node-id=533-38&t=8LH2jU8EiKD0bnyx-1) (LAB12)
 
 #### Exemples de portfolios
 
