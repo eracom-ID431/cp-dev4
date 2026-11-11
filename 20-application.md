@@ -13,6 +13,12 @@ Réalisation de projets avec WordPress:
 - Site Fondation Béatrice
 - Autres à définir
 
+[Document Figma](https://www.figma.com/deck/Chs2CaT6K4brjo6g9PUtTu) avec les projets:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/Chs2CaT6K4brjo6g9PUtTu/CMS-to-build?node-id=1-42&embed-host=share" allowfullscreen></iframe>
+
+Voir les projets attribués: [document Teams](https://fontes.eracom.ch/)
+
 ### Choix de portfolios
 
 Designs créés par GR450 et GR451
