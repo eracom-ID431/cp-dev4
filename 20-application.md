@@ -8,8 +8,7 @@ Réalisation de projets avec WordPress:
 
 - Sites pour portfolios GR450 et GR451
 - Mise à jour site Eracom 2027
-- Mise à jour du site [fontes.eracom.ch](https://fontes.eracom.ch/)
-- Festival Terranova
+- Mise à jour du site [fontes.eracom.ch](https://fontes.eracom.ch/) : voir [Site Fontes](site-fontes.html)
 - Site Fondation Béatrice
 - Autres à définir
 
