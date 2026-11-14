@@ -1,3 +1,4 @@
+---
 layout: page
 title: EmDash
 permalink: emdash.html
