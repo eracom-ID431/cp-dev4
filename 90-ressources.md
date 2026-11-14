@@ -13,3 +13,4 @@ Quelques ressources d'apprentissage :
 
 - [WordPress Playground](https://wordpress.org/playground/) - lance une instance de WordPress dans votre navigateur.
 - [Local](https://localwp.com/) - outil pour installer WordPress en local sur votre ordinateur.
+- [WordPress Studio](https://developer.wordpress.com/fr/studio/) - un peu comme local, mais créé par Automattic.

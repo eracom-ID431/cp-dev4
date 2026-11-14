@@ -8,15 +8,21 @@ Proposition : un site dédié qui présente les archives du LAB. Une sélection 
 
 ## Quelques exemples
 
-- LAB05 - Mon Objet Culte: https://vimeo.com/807839926
-- LAB01 - Court métrage : https://vimeo.com/1135684207 (todo: récupérer version en meilleure résolution auprès de Benjamin Eggenberger, actuellement intervenant ES à l'Eracom, les lundi 11h-12h30 salle 312)
-- Communication globale (site web et étiquettes bière) pour boissons (Sizain)
-- Travail pour l'école de Montreux
-- 2020: les portes ouvertes digitales de l'Eracom
-- 2021: Communication des portes ouvertes
-- Projet Werner Jecker, a été exposé dans un musée
-- Exposition sur le thème des données géolocalisées (ASIT)
-- Communication pour festival Terranova
+- LAB01 - Court métrage : [https://vimeo.com/1135684207](https://vimeo.com/1135684207) (todo: récupérer version en meilleure résolution auprès de Benjamin Eggenberger, actuellement intervenant ES à l'Eracom, les lundi 11h-12h30 salle 312)
+- 2020: les portes ouvertes digitales de l'Eracom ([voir site](https://eracom-pedagogique.ch/PO20/))
+- 2021: Communication des portes ouvertes ([voir site](https://code.eracom-pedagogique.ch/portes-ouvertes-2021/))
+- LAB_04: Travail pour l'école de Montreux (Pâté Vaudois pour EPM, printemps 2022)
+- LAB_05 - Mon Objet Culte: [https://vimeo.com/807839926](https://vimeo.com/807839926)
+- LAB_05: Musée de la chaussure (mandat réel)
+- LAB_06: projet vidéo sur la thématique "IA"
+- LAB_06: projet sur la thématique "grand-mère"
+- LAB_06: Communication globale (site web et étiquettes bière) pour boissons (Sizain, printemps 2023)
+- LAB_08: Exposition sur le thème des données géolocalisées (ASIT)
+- LAB_09: Projet Werner Jecker, a été exposé dans un musée
+- LAB_10: Un projet sur la thématique "chat".
+- LAB_11: Campagne politique pour droit de vote à 16 ans.
+- LAB_11: Consulter Cindy et Maxime pour les bons projets.
+- LAB_12: Communication pour festival Terranova
 
 ## Ressources
 
